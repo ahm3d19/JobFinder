@@ -1,4 +1,3 @@
-If your JobFinder application is utilizing the RapidAPI platform for accessing job-related APIs, you may want to mention that in your README as well. Here's an updated version, including a section about RapidAPI:
 
 # JobFinder - React Native Job Search Application
 
